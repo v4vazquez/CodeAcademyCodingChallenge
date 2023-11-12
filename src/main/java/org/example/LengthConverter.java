@@ -8,16 +8,18 @@ package org.example;
 //        Let’s start with a conversion from kilometers to miles. The function should include the input in kilometers and return the answer in miles.
 
 public class LengthConverter {
-
-    public void kiloToMiles(){
-
-//        System.out.println("This is a kilometer to miles converter and vice versa. Enter k if you want to see it in m, " +
-//                "enter m if you want to see it in k");
-//        Scanner scan = new Scanner(System.in);
-//        double userInput = (scan.nextLine().toLowerCase());
 //
+//    public void kiloToMiles(){
+//        Scanner scan = new Scanner(System.in);
 //        double answer = 0;
-//        if(!userInput.equals("k")&&!userInput.equals("m")){
+//
+//
+//        while(true){
+//            System.out.println("This is a kilometer to miles converter and vice versa. Enter k if you want to see it in m, " +
+//                    "enter m if you want to see it in k");
+//            double userInput = Double.parseDouble((scan.nextLine().toLowerCase()));
+//
+//        if(!userInput!=("k")&&!userInput.equals("m")){
 //            System.out.println("you have to enter K for kilo or M for meter");
 //        }
 //        else if(userInput.equals("k")){
@@ -32,6 +34,8 @@ public class LengthConverter {
 //
 //    return answer;
 //    }
+//
+//
+//}
 
-
-}}
+}
